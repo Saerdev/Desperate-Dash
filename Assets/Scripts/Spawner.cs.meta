@@ -1,12 +1,11 @@
 fileFormatVersion: 2
-guid: ee5cc93d6c9c923478cf9bcd7d6c16d7
+guid: 04326c4379a2df84da25e2fffa620f3f
 timeCreated: 1441838275
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences:
-  - floorPrefab: {fileID: 195504, guid: f38a66f69f6ba60439593555c982641c, type: 2}
-  executionOrder: 100
+  defaultReferences: []
+  executionOrder: 200
   icon: {instanceID: 0}
   userData: 
   assetBundleName: 

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: d678d7e0bd4a9fa4f921a4adf0311777
-timeCreated: 1442219548
+guid: e5ae35caeacf84f8db18f74f98f4c864
+timeCreated: 1441986120
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: LevelTileMesh01
+    4300000: pCube2
     6400000: //RootNode
     9500000: //RootNode
   materials:
@@ -52,7 +52,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 0
+    splitTangentsAcrossUV: 1
     normalImportMode: 0
     tangentImportMode: 1
   importAnimation: 1
